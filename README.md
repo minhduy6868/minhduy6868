@@ -1,5 +1,6 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Duy</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+MinhDuyy;" />
+</h1>
 <h3 align="center">Sunshine in your heart, sunshine in your life.</h3>
 
 - 📫 How to reach me **minhduyy4167@gmail.com**
