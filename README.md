@@ -8,8 +8,6 @@
 - 📫 How to reach me **minhduyy4167@gmail.com**
 
 - ⚡ Fun fact **Sunshine in your heart, sunshine in your life**
-
-<img align="right" alt="" width="300" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/minh-duyy-a357a025b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="minh duyy" height="30" width="40" /></a>
