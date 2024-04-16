@@ -1,9 +1,9 @@
 ![logo](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+MinhDuyy;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+MinhDuyy+-+MobileDev;" />
 </h1>
 <div>
-<h3 align="center">Sunshine in your heart, sunshine in your life.</h3>
+<h3 align="center">DaNang, VietNam.</h3>
 
 - 📫 How to reach me **minhduyy4167@gmail.com**
 
