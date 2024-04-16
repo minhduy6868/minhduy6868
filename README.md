@@ -2,12 +2,15 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+MinhDuyy;" />
 </h1>
+<div>
 <h3 align="center">Sunshine in your heart, sunshine in your life.</h3>
 
 - 📫 How to reach me **minhduyy4167@gmail.com**
 
 - ⚡ Fun fact **Sunshine in your heart, sunshine in your life**
 
+<img align="right" alt="" width="300" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
+</div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/minh-duyy-a357a025b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="minh duyy" height="30" width="40" /></a>
