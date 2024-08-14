@@ -29,7 +29,7 @@
 <br/>
 <hr/>
 <hr> 
-[![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=minhduy6868&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=minhduy6868&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph" />
 <hr/>
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
